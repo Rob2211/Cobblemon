@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:cinderace",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:cinderace.geo",
+	  "texture": "cobblemon:textures/pokemon/0815_cinderace/cinderace_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0815_cinderace/cinderace_female_shiny.png"
+    }
+  ]
+}

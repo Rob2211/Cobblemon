@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:munkidori",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/1015_munkidori/munkidori.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1015_munkidori/munkidori_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:piplup",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:piplup.geo",
+	  "texture": "cobblemon:textures/pokemon/0393_piplup/piplup_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0393_piplup/piplup_female_shiny.png"
+    }
+  ]
+}

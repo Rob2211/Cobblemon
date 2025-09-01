@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:marshtomp",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:marshtomp.geo",
+	  "texture": "cobblemon:textures/pokemon/0259_marshtomp/marshtomp_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0259_marshtomp/marshtomp_female_shiny.png"
+    }
+  ]
+}

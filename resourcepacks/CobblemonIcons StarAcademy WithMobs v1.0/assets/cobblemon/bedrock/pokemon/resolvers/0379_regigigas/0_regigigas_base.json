@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:regigigas",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0486_regigigas/regigigas.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0486_regigigas/regigigas_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:shieldon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:shieldon.geo",
+	  "texture": "cobblemon:textures/pokemon/0410_shieldon/shieldon_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0410_shieldon/shieldon_female_shiny.png"
+    }
+  ]
+}

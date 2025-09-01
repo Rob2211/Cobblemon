@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:fezandipiti",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/1016_fezandipiti/fezandipiti.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1016_fezandipiti/fezandipiti_shiny.png"
+    }
+  ]
+}

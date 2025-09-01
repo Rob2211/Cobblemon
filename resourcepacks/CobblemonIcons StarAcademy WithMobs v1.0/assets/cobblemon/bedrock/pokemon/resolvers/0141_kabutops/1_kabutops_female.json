@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:kabutops",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:kabutops.geo",
+	  "texture": "cobblemon:textures/pokemon/0141_kabutops/kabutops_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0141_kabutops/kabutops_female_shiny.png"
+    }
+  ]
+}

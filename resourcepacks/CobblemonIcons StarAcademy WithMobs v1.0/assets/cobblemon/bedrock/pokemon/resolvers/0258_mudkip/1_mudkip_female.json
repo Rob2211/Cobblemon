@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:mudkip",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:mudkip.geo",
+	  "texture": "cobblemon:textures/pokemon/0258_mudkip/mudkip_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0258_mudkip/mudkip_female_shiny.png"
+    }
+  ]
+}

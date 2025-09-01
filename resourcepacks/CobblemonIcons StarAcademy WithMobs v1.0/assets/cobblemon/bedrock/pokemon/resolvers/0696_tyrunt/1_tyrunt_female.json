@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:tyrunt",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:tyrunt.geo",
+	  "texture": "cobblemon:textures/pokemon/0696_tyrunt/tyrunt_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0696_tyrunt/tyrunt_female_shiny.png"
+    }
+  ]
+}

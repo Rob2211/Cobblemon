@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:tepig",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:tepig.geo",
+	  "texture": "cobblemon:textures/pokemon/0498_tepig/tepig_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0498_tepig/tepig_female_shiny.png"
+    }
+  ]
+}

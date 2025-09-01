@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:incineroar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:incineroar.geo",
+	  "texture": "cobblemon:textures/pokemon/0727_incineroar/incineroar_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0727_incineroar/incineroar_female_shiny.png"
+    }
+  ]
+}

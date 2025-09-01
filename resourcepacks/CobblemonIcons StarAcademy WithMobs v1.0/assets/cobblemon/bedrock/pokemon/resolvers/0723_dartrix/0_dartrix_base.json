@@ -1,0 +1,31 @@
+{
+  "species": "cobblemon:dartrix",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:dartrix",
+      "model": "cobblemon:dartrix.geo",
+      "texture": "cobblemon:textures/pokemon/0723_dartrix/dartrix.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0723_dartrix/dartrix_shiny.png"
+    },
+{
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0723_dartrix/dartrix_female.png"
+    },
+{
+      "aspects": [
+        "shiny","female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0723_dartrix/dartrix_female_shiny.png"
+    }
+  ]
+}

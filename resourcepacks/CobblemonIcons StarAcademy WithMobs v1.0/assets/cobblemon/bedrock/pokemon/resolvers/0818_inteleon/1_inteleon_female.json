@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:inteleon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:inteleon.geo",
+	  "texture": "cobblemon:textures/pokemon/0818_inteleon/inteleon_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0818_inteleon/inteleon_female_shiny.png"
+    }
+  ]
+}

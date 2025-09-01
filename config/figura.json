@@ -1,0 +1,11 @@
+{
+  "CONFIG_VERSION": 1,
+  "chat_nameplate": 1,
+  "entity_nameplate": 1,
+  "list_nameplate": 1,
+  "first_person_matrices": false,
+  "action_wheel_button": "key.keyboard.unknown",
+  "figura_inventory": false,
+  "popup_button": "key.keyboard.unknown",
+  "default_permission_level": 4
+}

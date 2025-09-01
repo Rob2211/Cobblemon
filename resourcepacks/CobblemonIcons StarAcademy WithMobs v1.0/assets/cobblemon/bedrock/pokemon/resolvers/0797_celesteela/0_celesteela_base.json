@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:celesteela",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0797_celesteela/celesteela.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0797_celesteela/celesteela_shiny.png"
+    }
+  ]
+}

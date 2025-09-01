@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:uxie",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0480_uxie/uxie.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0480_uxie/uxie_shiny.png"
+    }
+  ]
+}

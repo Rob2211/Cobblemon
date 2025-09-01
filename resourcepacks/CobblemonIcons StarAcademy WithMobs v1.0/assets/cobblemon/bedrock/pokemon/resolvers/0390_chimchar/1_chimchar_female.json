@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:chimchar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:chimchar.geo",
+	  "texture": "cobblemon:textures/pokemon/0390_chimchar/chimchar_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0390_chimchar/chimchar_female_shiny.png"
+    }
+  ]
+}

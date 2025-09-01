@@ -1,0 +1,7 @@
+{
+  "cobbleTransformationsConfigDataManager": {
+    "Z_RING_PERMISSION_LEVEL": 4,
+    "_comment": "The AshPikachiumZ_Chance is a number between 0-100, the higher the number the more likely AshPikachiumZ is, e.g. 50 is a 50% chance",
+    "ASHPIKACHIUMZ_CHANCE": 30
+  }
+}

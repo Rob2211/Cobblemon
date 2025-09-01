@@ -1,0 +1,31 @@
+{
+  "species": "cobblemon:zorua",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:zorua",
+      "model": "cobblemon:zorua.geo",
+      "texture": "cobblemon:textures/pokemon/0570_zorua/zorua.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0570_zorua/zorua_shiny.png"
+    },
+{
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0570_zorua/zorua_female.png"
+    },
+{
+      "aspects": [
+        "shiny","female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0570_zorua/zorua_female_shiny.png"
+    }
+  ]
+}

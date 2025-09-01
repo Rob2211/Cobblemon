@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:quilladin",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:quilladin.geo",
+	  "texture": "cobblemon:textures/pokemon/0651_quilladin/quilladin_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0651_quilladin/quilladin_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:regirock",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0377_regirock/regirock.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0377_regirock/regirock_shiny.png"
+    }
+  ]
+}

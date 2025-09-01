@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:archeops",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:archeops.geo",
+	  "texture": "cobblemon:textures/pokemon/0567_archeops/archeops_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0567_archeops/archeops_female_shiny.png"
+    }
+  ]
+}

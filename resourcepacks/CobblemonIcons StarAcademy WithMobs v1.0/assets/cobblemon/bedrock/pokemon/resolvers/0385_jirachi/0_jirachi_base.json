@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:jirachi",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0385_jirachi/jirachi.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0385_jirachi/jirachi_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:greninja",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:greninja.geo",
+	  "texture": "cobblemon:textures/pokemon/0658_greninja/greninja_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0658_greninja/greninja_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:charmander",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:charmander.geo",
+	  "texture": "cobblemon:textures/pokemon/0004_charmander/charmander_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0004_charmander/charmander_female_shiny.png"
+    }
+  ]
+}

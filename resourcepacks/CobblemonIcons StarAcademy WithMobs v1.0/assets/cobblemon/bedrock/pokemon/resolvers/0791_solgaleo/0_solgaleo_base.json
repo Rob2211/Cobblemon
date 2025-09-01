@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:solgaleo",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0791_solgaleo/solgaleo.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0791_solgaleo/solgaleo_shiny.png"
+    }
+  ]
+}

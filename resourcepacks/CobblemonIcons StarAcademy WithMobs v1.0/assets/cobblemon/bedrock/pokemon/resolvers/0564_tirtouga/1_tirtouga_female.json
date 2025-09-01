@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:tirtouga",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:tirtouga.geo",
+	  "texture": "cobblemon:textures/pokemon/0564_tirtouga/tirtouga_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0564_tirtouga/tirtouga_female_shiny.png"
+    }
+  ]
+}

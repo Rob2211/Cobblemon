@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:charmeleon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:charmeleon.geo",
+	  "texture": "cobblemon:textures/pokemon/0005_charmeleon/charmeleon_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0005_charmeleon/charmeleon_female_shiny.png"
+    }
+  ]
+}

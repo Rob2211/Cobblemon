@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:bastiodon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:bastiodon.geo",
+	  "texture": "cobblemon:textures/pokemon/0411_bastiodon/bastiodon_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0411_bastiodon/bastiodon_female_shiny.png"
+    }
+  ]
+}

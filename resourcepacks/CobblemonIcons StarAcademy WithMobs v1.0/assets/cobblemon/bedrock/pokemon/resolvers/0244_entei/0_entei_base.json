@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:entei",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0244_entei/entei.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0244_entei/entei_shiny.png"
+    }
+  ]
+}

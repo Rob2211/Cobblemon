@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:snivy",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:snivy.geo",
+	  "texture": "cobblemon:textures/pokemon/0495_snivy/snivy_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0495_snivy/snivy_female_shiny.png"
+    }
+  ]
+}

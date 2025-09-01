@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:pignite",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:pignite.geo",
+	  "texture": "cobblemon:textures/pokemon/0499_pignite/pignite_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0499_pignite/pignite_female_shiny.png"
+    }
+  ]
+}

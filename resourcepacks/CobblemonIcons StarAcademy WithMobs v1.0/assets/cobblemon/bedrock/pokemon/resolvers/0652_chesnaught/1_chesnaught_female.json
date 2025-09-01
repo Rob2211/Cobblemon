@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:chesnaught",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:chesnaught.geo",
+	  "texture": "cobblemon:textures/pokemon/0652_chesnaught/chesnaught_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0652_chesnaught/chesnaught_female_shiny.png"
+    }
+  ]
+}

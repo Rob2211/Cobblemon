@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:sylveon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:sylveon.geo",
+	  "texture": "cobblemon:textures/pokemon/0700_sylveon/sylveon_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0700_sylveon/sylveon_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:palkia",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0484_palkia/palkia.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0484_palkia/palkia_shiny.png"
+    }
+  ]
+}

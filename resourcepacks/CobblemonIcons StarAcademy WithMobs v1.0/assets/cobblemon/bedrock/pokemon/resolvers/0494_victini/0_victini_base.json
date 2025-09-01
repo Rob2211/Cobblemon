@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:victini",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0494_victini/victini.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0494_victini/victini_shiny.png"
+    }
+  ]
+}

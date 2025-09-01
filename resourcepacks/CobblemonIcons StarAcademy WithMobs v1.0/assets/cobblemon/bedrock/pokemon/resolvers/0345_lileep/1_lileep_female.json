@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:lileep",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:lileep.geo",
+	  "texture": "cobblemon:textures/pokemon/0345_lileep/lileep_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0345_lileep/lileep_female_shiny.png"
+    }
+  ]
+}

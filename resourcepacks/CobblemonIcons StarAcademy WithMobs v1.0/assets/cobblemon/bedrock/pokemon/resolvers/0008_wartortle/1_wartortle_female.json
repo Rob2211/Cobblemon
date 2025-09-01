@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:wartortle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:wartortle.geo",
+	  "texture": "cobblemon:textures/pokemon/0008_wartortle/wartortle_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0008_wartortle/wartortle_female_shiny.png"
+    }
+  ]
+}

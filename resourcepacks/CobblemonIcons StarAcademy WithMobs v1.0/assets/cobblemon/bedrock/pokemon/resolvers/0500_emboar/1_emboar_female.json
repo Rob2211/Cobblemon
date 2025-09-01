@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:emboar",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:emboar.geo",
+	  "texture": "cobblemon:textures/pokemon/0500_emboar/emboar_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0500_emboar/emboar_female_shiny.png"
+    }
+  ]
+}

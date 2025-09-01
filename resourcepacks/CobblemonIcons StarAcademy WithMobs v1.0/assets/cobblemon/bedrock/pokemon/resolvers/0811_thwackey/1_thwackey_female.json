@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:thwackey",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:thwackey.geo",
+	  "texture": "cobblemon:textures/pokemon/0811_thwackey/thwackey_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0811_thwackey/thwackey_female_shiny.png"
+    }
+  ]
+}

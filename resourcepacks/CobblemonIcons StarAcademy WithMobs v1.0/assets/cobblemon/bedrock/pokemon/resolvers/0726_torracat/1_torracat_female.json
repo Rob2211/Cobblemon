@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:torracat",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:torracat.geo",
+	  "texture": "cobblemon:textures/pokemon/0726_torracat/torracat_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0726_torracat/torracat_female_shiny.png"
+    }
+  ]
+}

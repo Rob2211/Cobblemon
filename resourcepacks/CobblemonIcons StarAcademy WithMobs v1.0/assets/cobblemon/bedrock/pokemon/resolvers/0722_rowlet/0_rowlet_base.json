@@ -1,0 +1,31 @@
+{
+  "species": "cobblemon:rowlet",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:rowlet",
+      "model": "cobblemon:rowlet.geo",
+      "texture": "cobblemon:textures/pokemon/0722_rowlet/rowlet.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0722_rowlet/rowlet_shiny.png"
+    },
+{
+      "aspects": [
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0722_rowlet/rowlet_female.png"
+    },
+{
+      "aspects": [
+        "shiny","female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0722_rowlet/rowlet_female_shiny.png"
+    }
+  ]
+}

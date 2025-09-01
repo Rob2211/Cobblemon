@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:charizard",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:charizard.geo",
+	  "texture": "cobblemon:textures/pokemon/0006_charizard/charizard_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0006_charizard/charizard_female_shiny.png"
+    }
+  ]
+}

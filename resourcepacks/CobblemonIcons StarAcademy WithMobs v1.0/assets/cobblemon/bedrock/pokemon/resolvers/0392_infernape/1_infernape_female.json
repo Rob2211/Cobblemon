@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:infernape",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:infernape.geo",
+	  "texture": "cobblemon:textures/pokemon/0392_infernape/infernape_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0392_infernape/infernape_female_shiny.png"
+    }
+  ]
+}

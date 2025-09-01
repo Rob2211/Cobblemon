@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:okidogi",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/1014_okidogi/okidogi.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/1014_okidogi/okidogi_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:frogadier",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:frogadier.geo",
+	  "texture": "cobblemon:textures/pokemon/0657_frogadier/frogadier_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0657_frogadier/frogadier_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:empoleon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:empoleon.geo",
+	  "texture": "cobblemon:textures/pokemon/0395_empoleon/empoleon_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0395_empoleon/empoleon_female_shiny.png"
+    }
+  ]
+}

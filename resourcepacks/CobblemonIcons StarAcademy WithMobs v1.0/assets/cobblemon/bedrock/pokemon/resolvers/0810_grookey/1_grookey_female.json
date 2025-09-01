@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:grookey",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:grookey.geo",
+	  "texture": "cobblemon:textures/pokemon/0810_grookey/grookey_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0810_grookey/grookey_female_shiny.png"
+    }
+  ]
+}

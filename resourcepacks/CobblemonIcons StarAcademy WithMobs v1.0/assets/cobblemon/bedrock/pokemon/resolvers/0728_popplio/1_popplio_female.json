@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:popplio",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:popplio.geo",
+	  "texture": "cobblemon:textures/pokemon/0728_popplio/popplio_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0728_popplio/popplio_female_shiny.png"
+    }
+  ]
+}

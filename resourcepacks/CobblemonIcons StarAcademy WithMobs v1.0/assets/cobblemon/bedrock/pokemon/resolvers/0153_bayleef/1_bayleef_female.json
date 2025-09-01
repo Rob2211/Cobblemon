@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:bayleef",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:bayleef.geo",
+	  "texture": "cobblemon:textures/pokemon/0153_bayleef/bayleef_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0153_bayleef/bayleef_female_shiny.png"
+    }
+  ]
+}

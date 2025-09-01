@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:dialga",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0483_dialga/dialga.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0483_dialga/dialga_shiny.png"
+    }
+  ]
+}

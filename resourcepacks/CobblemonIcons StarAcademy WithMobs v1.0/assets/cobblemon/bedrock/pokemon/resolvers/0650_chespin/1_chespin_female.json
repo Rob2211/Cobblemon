@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:chespin",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:chespin.geo",
+	  "texture": "cobblemon:textures/pokemon/0650_chespin/chespin_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0650_chespin/chespin_female_shiny.png"
+    }
+  ]
+}

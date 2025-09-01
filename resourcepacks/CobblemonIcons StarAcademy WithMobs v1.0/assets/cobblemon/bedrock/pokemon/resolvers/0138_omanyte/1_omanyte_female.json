@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:omanyte",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:omanyte.geo",
+	  "texture": "cobblemon:textures/pokemon/0138_omanyte/omanyte_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0138_omanyte/omanyte_female_shiny.png"
+    }
+  ]
+}

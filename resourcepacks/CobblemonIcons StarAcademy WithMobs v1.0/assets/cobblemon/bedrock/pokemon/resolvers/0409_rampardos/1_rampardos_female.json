@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:rampardos",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:rampardos.geo",
+	  "texture": "cobblemon:textures/pokemon/0409_rampardos/rampardos_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0409_rampardos/rampardos_female_shiny.png"
+    }
+  ]
+}

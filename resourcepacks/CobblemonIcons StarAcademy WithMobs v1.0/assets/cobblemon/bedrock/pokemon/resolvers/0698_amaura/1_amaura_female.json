@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:amaura",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:amaura.geo",
+	  "texture": "cobblemon:textures/pokemon/0698_amaura/amaura_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0698_amaura/amaura_female_shiny.png"
+    }
+  ]
+}

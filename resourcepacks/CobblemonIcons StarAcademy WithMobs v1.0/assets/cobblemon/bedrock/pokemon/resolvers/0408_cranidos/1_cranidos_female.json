@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:cranidos",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:cranidos.geo",
+	  "texture": "cobblemon:textures/pokemon/0408_cranidos/cranidos_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0408_cranidos/cranidos_female_shiny.png"
+    }
+  ]
+}

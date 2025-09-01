@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:anorith",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:anorith.geo",
+	  "texture": "cobblemon:textures/pokemon/0347_anorith/anorith_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0347_anorith/anorith_female_shiny.png"
+    }
+  ]
+}

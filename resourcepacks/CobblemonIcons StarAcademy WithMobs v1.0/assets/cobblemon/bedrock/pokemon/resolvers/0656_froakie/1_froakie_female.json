@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:froakie",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:froakie.geo",
+	  "texture": "cobblemon:textures/pokemon/0656_froakie/froakie_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0656_froakie/froakie_female_shiny.png"
+    }
+  ]
+}

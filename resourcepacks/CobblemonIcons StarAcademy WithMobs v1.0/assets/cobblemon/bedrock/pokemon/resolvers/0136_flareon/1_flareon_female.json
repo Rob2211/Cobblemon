@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:flareon",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:flareon.geo",
+	  "texture": "cobblemon:textures/pokemon/0136_flareon/flareon_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0136_flareon/flareon_female_shiny.png"
+    }
+  ]
+}

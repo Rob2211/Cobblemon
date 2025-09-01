@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:servine",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:servine.geo",
+	  "texture": "cobblemon:textures/pokemon/0496_servine/servine_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0496_servine/servine_female_shiny.png"
+    }
+  ]
+}

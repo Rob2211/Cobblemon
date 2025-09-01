@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:treecko",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:treecko.geo",
+	  "texture": "cobblemon:textures/pokemon/0252_treecko/treecko_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0252_treecko/treecko_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:croconaw",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:croconaw.geo",
+	  "texture": "cobblemon:textures/pokemon/0159_croconaw/croconaw_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0159_croconaw/croconaw_female_shiny.png"
+    }
+  ]
+}

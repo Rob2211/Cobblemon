@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:braixen",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:braixen.geo",
+	  "texture": "cobblemon:textures/pokemon/0654_braixen/braixen_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0654_braixen/braixen_female_shiny.png"
+    }
+  ]
+}

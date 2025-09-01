@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:torterra",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:torterra.geo",
+	  "texture": "cobblemon:textures/pokemon/0389_torterra/torterra_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0389_torterra/torterra_female_shiny.png"
+    }
+  ]
+}

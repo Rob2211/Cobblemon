@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:squirtle",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:squirtle.geo",
+	  "texture": "cobblemon:textures/pokemon/0007_squirtle/squirtle_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0007_squirtle/squirtle_female_shiny.png"
+    }
+  ]
+}

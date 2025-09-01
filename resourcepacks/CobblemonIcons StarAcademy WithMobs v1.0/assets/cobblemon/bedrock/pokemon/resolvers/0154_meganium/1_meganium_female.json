@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:meganium",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:meganium.geo",
+	  "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0154_meganium/meganium_female_shiny.png"
+    }
+  ]
+}

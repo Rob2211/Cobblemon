@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:totodile",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:totodile.geo",
+	  "texture": "cobblemon:textures/pokemon/0158_totodile/totodile_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0158_totodile/totodile_female_shiny.png"
+    }
+  ]
+}

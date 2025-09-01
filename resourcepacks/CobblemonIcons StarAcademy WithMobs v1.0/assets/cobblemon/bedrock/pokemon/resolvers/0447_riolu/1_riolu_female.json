@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:riolu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:riolu.geo",
+	  "texture": "cobblemon:textures/pokemon/0447_riolu/riolu_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0447_riolu/riolu_female_shiny.png"
+    }
+  ]
+}

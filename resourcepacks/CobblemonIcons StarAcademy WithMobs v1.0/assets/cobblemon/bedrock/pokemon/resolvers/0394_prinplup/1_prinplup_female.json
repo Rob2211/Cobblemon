@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:prinplup",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:prinplup.geo",
+	  "texture": "cobblemon:textures/pokemon/0394_prinplup/prinplup_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0394_prinplup/prinplup_female_shiny.png"
+    }
+  ]
+}

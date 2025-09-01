@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:monferno",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:monferno.geo",
+	  "texture": "cobblemon:textures/pokemon/0391_monferno/monferno_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0391_monferno/monferno_female_shiny.png"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:aerodactyl",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:aerodactyl.geo",
+	  "texture": "cobblemon:textures/pokemon/0142_aerodactyl/aerodactyl_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0142_aerodactyl/aerodactyl_female_shiny.png"
+    }
+  ]
+}

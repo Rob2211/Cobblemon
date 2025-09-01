@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:registeel",
+  "order": 0,
+  "variations": [
+    {
+      "texture": "cobblemon:textures/pokemon/0379_registeel/registeel.png"
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0379_registeel/registeel_shiny.png"
+    }
+  ]
+}

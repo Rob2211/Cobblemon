@@ -1,0 +1,40 @@
+# Default config file that will be copied to saves\New World\serverconfig\ftbchunks-world.snbt if it doesn't exist!
+# Just copy any values you wish to override in here!
+
+{ 
+	# Disables all land protection. Useful for private servers where everyone is trusted and claims are only used for force-loading
+	# Default: false
+	disable_protection: true
+	
+	# Control how force-loaded chunks work.
+	# NEVER: only allow chunk force-loading if the owning team has at least one online player.
+	# ALWAYS: always allow force-loading, even if no players are online.
+	# DEFAULT: allow force-loading IF the team has at least one player with the 'ftbchunks.chunk_load_offline' FTB Ranks permission.
+	# Default: "default"
+	# Valid values: "default", "always", "never"
+	force_load_mode: "always"
+	
+	# Max claimed chunks.
+	# You can override this with FTB Ranks 'ftbchunks.max_claimed' permission
+	# Default: 500
+	# Range: -∞ ~ +∞
+	max_claimed_chunks: 10000
+	
+	# Max force loaded chunks.
+	# You can override this with FTB Ranks 'ftbchunks.max_force_loaded' permission
+	# Default: 25
+	# Range: -∞ ~ +∞
+	max_force_loaded_chunks: 10000
+	
+	# Maximum time (in real-world days) where if no player in a team logs in, any forceloaded chunks owned by the team are no longer forceloaded.
+	# Prevents chunks being forceloaded indefinitely by teams who no longer play.
+	# Default of 0 means no automatic loss of forceloading.
+	# Default: 0.0
+	# Range: 0.0 ~ 3650.0
+	max_idle_days_before_unforce: 7.0d
+	
+	# When true, standard FTB Chunk explosion protection is applied in protected chunks when the source of the explosion cannot be determined
+	# (Ghast fireballs are a common case - vanilla supplies a null entity source)
+	# Default: true
+	protect_unknown_explosions: false
+}

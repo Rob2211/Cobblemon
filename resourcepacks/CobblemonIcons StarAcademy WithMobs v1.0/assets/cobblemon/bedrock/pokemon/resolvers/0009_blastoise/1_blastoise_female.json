@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:blastoise.geo",
+	  "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_female_shiny.png"
+    }
+  ]
+}

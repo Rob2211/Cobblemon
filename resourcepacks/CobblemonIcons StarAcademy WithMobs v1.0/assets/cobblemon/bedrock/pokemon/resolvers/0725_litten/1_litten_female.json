@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:litten",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:litten.geo",
+	  "texture": "cobblemon:textures/pokemon/0725_litten/litten_female.png"
+    },
+	{
+      "aspects": [
+        "female",
+		"shiny"
+      ],
+	  "texture": "cobblemon:textures/pokemon/0725_litten/litten_female_shiny.png"
+    }
+  ]
+}
